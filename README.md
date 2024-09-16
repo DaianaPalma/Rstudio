@@ -1,5 +1,5 @@
 # Rstudio
-Análisis - Caso Práctico "Titanic" en Rstudio
+## Análisis - Caso Práctico "Titanic" en Rstudio
 Caso Práctico “Titanic” en R Studio
 
 El famoso Titanic fue un transatlántico británico, y para esa época era el barco de mayor capacidad de pasajeros en el mundo, naufragó en aguas del océano Atlántico en abril de 1912 en su primer viaje inaugural desde Southampton a Nueva York después de chocar con un iceberg.
